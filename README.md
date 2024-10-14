@@ -1,3 +1,3 @@
 # Employee-Satisfaction-Dashboard
 
-![Poster](poster.png)
+![Poster](image.png)
